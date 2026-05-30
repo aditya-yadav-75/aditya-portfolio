@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: #050816;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+* {
+  cursor: none;
+}
+
+body {
+  cursor: none;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.apple-glass {
+  backdrop-filter: blur(30px);
+  -webkit-backdrop-filter: blur(30px);
+}
+
+html {
+  scroll-behavior: smooth;
+}
