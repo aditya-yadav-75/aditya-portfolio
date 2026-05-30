@@ -1,16 +1,192 @@
-# React + Vite
+# 🚀 Aditya Yadav — Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Portfolio Banner](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge)
 
-Currently, two official plugins are available:
+A modern developer portfolio built with **React**, **Vite**, **Tailwind CSS**, and **Framer Motion** to showcase my projects, skills, education, and journey as a Computer Science Engineering student.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🌐 Live Website
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**Portfolio:** https://aditya-portfolio-ivory.vercel.app/
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 👨‍💻 About Me
+
+Hi, I'm **Aditya Yadav**, a B.Tech Computer Science Engineering student at **ITM Skills University**.
+
+I enjoy building modern web applications, solving problems, and continuously learning new technologies.
+
+### Current Focus
+
+* React Development
+* Data Structures & Algorithms
+* Full Stack Development
+* UI/UX Design
+* Open Source Learning
+
+---
+
+## ⚡ Features
+
+* Interactive Hero Section
+* Smooth Scroll Navigation
+* Modern Glassmorphism UI
+* Animated Components using Framer Motion
+* Education Timeline
+* Skills Showcase
+* Project Portfolio
+* Contact Section
+* Dark Theme Interface
+* Responsive Design Ready
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* React.js
+* JavaScript
+* HTML5
+* CSS3
+* Tailwind CSS
+
+### Animation & UI
+
+* Framer Motion
+* React Type Animation
+* React Icons
+
+### Development Tools
+
+* Git
+* GitHub
+* VS Code
+* Vite
+
+---
+
+## 📂 Featured Projects
+
+### ☕ Coffee Works
+
+A modern coffee-themed website featuring clean UI design and responsive layouts.
+
+Repository:
+https://github.com/aditya-yadav-75/12.26-coffee-works
+
+---
+
+### 🗳️ Online Voting System
+
+A JavaScript-based voting platform demonstrating frontend logic, DOM manipulation, and user interaction.
+
+Repository:
+https://github.com/aditya-yadav-75/mini-project-js-online-voting-system-
+
+---
+
+### 🎮 Tic Tac Toe
+
+A classic Tic Tac Toe game built using JavaScript with win detection and game reset functionality.
+
+Repository:
+https://github.com/aditya-yadav-75/tictactoe_miniproject-
+
+---
+
+### 📊 Tableau Replica
+
+A frontend dashboard inspired by Tableau's visual analytics platform.
+
+Repository:
+https://github.com/aditya-yadav-75/Tableau_replica_aditya_yadav
+
+---
+
+## 🎓 Education
+
+### ITM Skills University
+
+**Bachelor of Technology (Computer Science Engineering)**
+2025 – Present
+
+### PACE IIT & Medical
+
+Higher Secondary Education (Class 12)
+
+### Narayana Group of Institutions
+
+Higher Secondary Education (Class 11)
+
+### Lodha World School
+
+Primary & Secondary Education
+
+---
+
+## 📈 Goals
+
+* Master Data Structures & Algorithms
+* Become a Full Stack Developer
+* Build Scalable Applications
+* Contribute to Open Source Projects
+* Explore Artificial Intelligence
+
+---
+
+## 🚀 Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/aditya-yadav-75/aditya-portfolio.git
+```
+
+Navigate to the project:
+
+```bash
+cd aditya-portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+---
+
+## 📫 Connect With Me
+
+### LinkedIn
+
+https://www.linkedin.com/in/adityayadav75official/
+
+### GitHub
+
+https://github.com/aditya-yadav-75
+
+---
+
+## ⭐ If You Like This Project
+
+Consider giving it a star ⭐ on GitHub.
+
+---
+
+### Built with ❤️ by Aditya Yadav
